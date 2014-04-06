@@ -1,0 +1,14 @@
+{
+  "name": "<%= _.slugify(gameName) %>",
+  "version": "0.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-typescript": "^0.3.0",
+    "grunt-contrib-copy": "^0.5.0",
+    "grunt-open": "^0.2.3",
+    "grunt-contrib-connect": "^0.7.1",
+    "connect-livereload": "^0.3.2",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}

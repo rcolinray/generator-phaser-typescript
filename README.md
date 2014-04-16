@@ -62,3 +62,7 @@ If you'd like to get to know Yeoman better and meet some of his friends, [Grunt]
 ## License
 
 MIT
+
+## Credits
+
+The design of this generator is modeled after the excellent [generator-phaser-official](https://github.com/codevinsky/generator-phaser-official) by [codevinsky](https://github.com/codevinsky).

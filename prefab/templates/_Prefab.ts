@@ -1,5 +1,5 @@
 module <%= moduleName %>.Prefab {
-  class <%= _.classify(name) %> extends Phaser.Sprite {
+  export class <%= _.classify(name) %> extends Phaser.Sprite {
     constructor(game: Phaser.Game, x: number, y: number) {
       super(game, x, y, '<%= _.slugify(name) %>', 0);
 

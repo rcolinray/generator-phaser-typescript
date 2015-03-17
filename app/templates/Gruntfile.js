@@ -29,7 +29,8 @@ module.exports = function(grunt) {
       bower: {
         files: [
           {
-            'build/vendor/phaser.min.js': 'app/vendor/phaser-official/build/phaser.min.js'
+            'build/vendor/phaser.min.js': 'app/vendor/phaser-official/build/phaser.min.js',
+            'build/vendor/phaser.map': 'app/vendor/phaser-official/build/phaser.map'
           }
         ]
       }

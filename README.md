@@ -1,3 +1,7 @@
+# NOTE: This project is no longer under active development.
+
+I don't use Phaser these days, so I am no longer using this generator. If you are still using it I am happy to review and accept your pull requests. If  you are interested in maintaining this repository let me know and I can transfer it to you.
+
 # generator-phaser-typescript 
 
 > [Yeoman](http://yeoman.io) generator
